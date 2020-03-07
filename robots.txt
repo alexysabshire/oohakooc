@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chengoecae.like-a-fin.lol/sitemap.xml
